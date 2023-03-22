@@ -32,4 +32,4 @@
 
 ## Ссылки
 
-Предпросмотр *чернового* [сайта](zerop913.github.io/zerocubes/)
+Предпросмотр *чернового* [сайта](https://zerop913.github.io/zerocubes/)
